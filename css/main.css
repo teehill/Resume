@@ -102,6 +102,11 @@ DEFAULT BOX
   font-size: 1.3em;
   line-height: 1.5em;
 }
+
+.box.about ul li {
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
 /*******************************************
 EDUCATION
 *******************************************/
