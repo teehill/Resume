@@ -1,8 +1,4 @@
 /*******************************************
-3ColorResume
-Author: office@kamsolutions.pl
-*******************************************/
-/*******************************************
 FONTS
 *******************************************/
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
@@ -58,17 +54,17 @@ PHOTO (AVATAR)
   padding: 0;
   font-size: 2.4em;
   font-weight: 700;
-  text-transform: uppercase;
   letter-spacing: -1px;
+  padding: 82px 0;
 }
 #text-header h1::first-line{
   font-size: 1.5em;
-  letter-spacing: -4px;
+  letter-spacing: 0px;
   font-weight: 800;
   line-height: 1.5em;
 }
 #text-header h1 span{
-  color: #F0563D;
+  color: #FFF;
   font-weight: 600;
 }
 #text-header h1 sup{
